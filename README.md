@@ -11,7 +11,7 @@ pip install vis3dpy
 ```
 
 ## Usage
-### *class* Figure *(window width, window height, grid color, mode)*
+### *class* *vis3d.plot.* Figure *(window width, window height, grid color, mode)*
  * ***window width*** - x size of the window in pixels
  * ***window height*** - y size of the window in pixels
  * ***grid color*** - color of the generated grid (for now just the cube)
