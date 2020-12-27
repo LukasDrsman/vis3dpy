@@ -1,9 +1,0 @@
-README.md
-setup.py
-pyvis3d/__init__.py
-pyvis3d/plot.py
-pyvis3d.egg-info/PKG-INFO
-pyvis3d.egg-info/SOURCES.txt
-pyvis3d.egg-info/dependency_links.txt
-pyvis3d.egg-info/requires.txt
-pyvis3d.egg-info/top_level.txt
