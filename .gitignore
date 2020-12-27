@@ -2,4 +2,4 @@ __pycache__/
 setup.py
 build/
 dist/
-pyvis3d.egg-info/
+vis3dpy.egg-info/
