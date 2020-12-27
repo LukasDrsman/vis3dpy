@@ -1,4 +1,4 @@
-# vis3d
+# pyvis3d
 ![preview image](https://github.com/LukasDrsman/vis3d/blob/main/assets/coil.png)
 
 ## Installation
@@ -7,7 +7,7 @@
 
 #### Install:
 ```sh
-pip install vis3d
+pip install pyvis3d
 ```
 
 ## Usage
