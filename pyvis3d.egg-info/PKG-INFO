@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: pyvis3d
+Version: 0.0.1
+Summary: Minimal 3D data visualizer
+Home-page: https://github.com/LukasDrsman/pyvis3d
+Author: Lukáš Dršman
+Author-email: lukaskodr@gmail.com
+License: Unlicense License
+Description: # pyvis3d
+        ![preview image](https://github.com/LukasDrsman/vis3d/blob/main/assets/coil.png)
+        
+        ## Installation
+        #### Requirements:
+         * python3 with pip
+        
+        #### Install:
+        ```sh
+        pip install pyvis3d
+        ```
+        
+        ## Usage
+        ### *class* Figure *(window width, window height, grid color, mode)*
+         * ***window width*** - x size of the window in pixels
+         * ***window height*** - y size of the window in pixels
+         * ***grid color*** - color of the generated grid (for now just the cube)
+         * ***mode*** (*default* : 0) - 0 for orthographic, 1 for perspective
+        
+        | method | parameters | description |
+        |--------|------------|-------------|
+        | scatter | points, color  | creates a scatter plot |
+        | plot | points, color | creates a line plot |
+        | show | none | displays plots |
+        
+        ## To Do
+         - [x] upload to pypi
+         - [ ] clean the code
+         - [ ] fix UI control bugs
+         - [ ] add grid
+         - [ ] add axis labels
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
