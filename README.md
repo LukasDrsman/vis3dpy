@@ -12,10 +12,11 @@ pip install vis3d
 
 ## Usage
 ### *class* Figure *(window width, window height, grid color, mode)*
- * *window width* - x size of the window in pixels
- * *window height* - y size of the window in pixels
- * *grid color* - color of the generated grid (for now just the cube)
- * *mode* ( *default* : 0 ) - 0 or 1, 0 for orthographic, 1 for perspective
+ * ***window width*** - x size of the window in pixels
+ * ***window height*** - y size of the window in pixels
+ * ***grid color*** - color of the generated grid (for now just the cube)
+ * ***mode*** (*default* : 0) - 0 for orthographic, 1 for perspective
+
 | method | parameters | description |
 |--------|------------|-------------|
 | scatter | points, color  | creates a scatter plot |
