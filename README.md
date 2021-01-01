@@ -23,6 +23,10 @@ pip install vis3dpy
 | plot | points, color | creates a line plot |
 | show | none | displays plots |
 
+| parameter | structure | description |
+|-----------|--------------------|-------------|
+| points    | `[[ x0, y0, z0 ], ..., [ xn, yn, zn ]]` | n-list of 3-lists |
+| color     | `( r, g, b )` : `(0-255, 0-255, 0-255)` | RGB colors 3-tuple |
 ## To Do
  - [x] upload to pypi
  - [ ] clean the code
