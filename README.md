@@ -33,3 +33,4 @@ pip install vis3dpy
  - [ ] fix UI control bugs
  - [ ] add grid
  - [ ] add axis labels
+ - [ ] fix the aspect ratio problem
