@@ -29,6 +29,8 @@ pip install vis3dpy
 | points    | `[[ x0, y0, z0 ], ..., [ xn, yn, zn ]]` | n-list of 3-lists |
 | color     | `( r, g, b )` : `(0-255, 0-255, 0-255)` | RGB colors 3-tuple |
 
+****
+
 ### Creating your own drawable class
 A drawable class requires 2 methods:
 #### norm *(ndata)*
