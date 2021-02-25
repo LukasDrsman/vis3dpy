@@ -35,7 +35,7 @@ pip install vis3dpy
 A drawable class requires 2 methods:
 #### norm *(ndata)*
 This method is responsible for centering the object. In case this isn't desired, it's body can be left "empty". It takes 1 parameter, ndata:
- * ***ndata*** - in the form `(-cx, -cy, -cz)`, created from *cpd* of all objects
+ * ***ndata*** - in the form `(-cx, -cy, -cz)`, created from *opd* of all objects
 
 #### render *()*
 This method is responsible for the actual openGL rendering. It takes no parameters.
